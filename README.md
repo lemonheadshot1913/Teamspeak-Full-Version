@@ -242,3 +242,6 @@ This repository serves as the official landing page for TeamSpeak. The software 
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of TeamSpeak today!**
+
+---
+**Last updated:** 2026-09-10 17:20:55 UTC
