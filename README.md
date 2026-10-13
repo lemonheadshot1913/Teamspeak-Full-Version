@@ -244,4 +244,4 @@ This repository serves as the official landing page for TeamSpeak. The software 
 **Get the most recent version of TeamSpeak today!**
 
 ---
-**Last updated:** 2026-10-13 01:40:32 UTC
+**Last updated:** 2026-10-13 08:35:05 UTC
